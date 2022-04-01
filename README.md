@@ -23,7 +23,7 @@
 /_______________________________\             |II|II|
 ```
 
-<img align="left" src="https://github.com/doguscancalli/doguscancalli/blob/main/doctor.gif" alt="10th doctor" width="420" /> 
+<img align="left" src="https://github.com/doguscancalli/doguscancalli/blob/main/doctor.gif" alt="10th doctor" width="420" style="margin-top: 16px;" /> 
 
 ```csharp
 Hi! Im a frontend developer
