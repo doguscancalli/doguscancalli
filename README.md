@@ -30,7 +30,7 @@ Hi! Im a frontend developer
 who loves designing websites
 and crafting them with love.
 ----------------------------
-Stack: Next, Redux, Express,
+Stack: Next, Redux, Graphql,
        Mongodb
 Learning: Typescript, Testing
 Design: Interested in UI and
