@@ -22,8 +22,9 @@
 (__)   (___)  (___)  (___)   (__)             |II|II|  occured...
 /_______________________________\             |II|II|
 ```
+<div>
+<img align="left" src="https://github.com/doguscancalli/doguscancalli/blob/main/doctor.gif" alt="10th doctor" style="margin-right: 16px;" /> 
 
-<img align="left" src="https://github.com/doguscancalli/doguscancalli/blob/main/doctor.gif" alt="10th doctor" width="420" /> 
 
 ```csharp
 Hi! Im a frontend developer
@@ -39,3 +40,4 @@ Currently: Working on a social
            platform about pet
            adoption
 ```
+</div>
