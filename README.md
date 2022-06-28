@@ -33,11 +33,10 @@ and crafting them with love.
 ----------------------------
 Stack: Next, Redux, Graphql,
        Mongodb
-Learning: Typescript, Testing
+Learning: Typescript, Testing, Vue3
 Design: Interested in UI and
         UX design
-Currently: Working on a social
-           platform about pet
-           adoption
+Currently: Working on a gaming
+           platform
 ```
 </div>
