@@ -24,6 +24,7 @@
 ```
 <div>
 <img align="left" src="https://github.com/doguscancalli/doguscancalli/blob/main/doctor.gif" alt="10th doctor" /> 
+
 ```csharp
 Hi! Im a frontend developer
 who loves designing websites
