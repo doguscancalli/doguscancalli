@@ -23,17 +23,17 @@
 /_______________________________\             |II|II|
 ```
 <div>
-<img align="left" src="https://github.com/doguscancalli/doguscancalli/blob/main/doctor.gif" alt="10th doctor" style="margin-right: 16px;" /> 
-
-
+<img align="left" src="https://github.com/doguscancalli/doguscancalli/blob/main/doctor.gif" alt="10th doctor" /> 
 ```csharp
 Hi! Im a frontend developer
 who loves designing websites
 and crafting them with love.
 ----------------------------
-Stack: Next, Redux, Graphql,
-       Mongodb
-Learning: Typescript, Testing, Vue3
+Stack: Next, Redux, Tailwind,
+       Graphql, Mongodb
+Learning: Shopify, Liquid,
+          Typescript, Testing,
+          Vue3
 Design: Interested in UI and
         UX design
 Currently: Working on a gaming
