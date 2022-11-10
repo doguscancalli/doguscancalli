@@ -26,15 +26,13 @@
 <img align="left" src="https://github.com/doguscancalli/doguscancalli/blob/main/doctor.gif" alt="10th doctor" height="256px" /> 
 
 ```csharp
-Hi! Im a frontend developer
+Hi! Im a fullstack designer
 who loves designing websites
 and crafting them with love.
 ----------------------------
 Stack: Next, Redux, Tailwind,
        Graphql, Mongodb
-Learning: Shopify, Liquid,
-          Typescript, Testing,
-          Vue3
+Learning: Typescript, Trpc
 Design: Interested in UI and
         UX design
 Currently: Working on a gaming
