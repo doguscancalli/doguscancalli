@@ -30,12 +30,12 @@ Hi! Im a fullstack designer
 who loves designing websites
 and crafting them with love.
 ----------------------------
-Stack: Next, Redux, Tailwind,
-       Graphql, Mongodb
-Learning: Typescript, Trpc
+Stack: Next, Typescript, Redux,
+       Tailwind, Graphql, Mongodb,
+       Prisma
+Learning: Testing
 Design: Interested in UI and
         UX design
-Currently: Working on a gaming
-           platform
+Currently: Free atm
 ```
 </div>
